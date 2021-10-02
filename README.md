@@ -1,6 +1,6 @@
-#Sentiment_Analysis Project_2
+#Scraping_for_Sentiment_Project_2
 
-Is there a correlation between market activity over time and Sentiment Analysis on the economic categories of Bitcoin (Cryptocurrency), Gold and Inflation? - We will be analyzing the Sentiments between various User Tweets' on Tweeter for Bitcoin, Gold and Inflation via Twint (a WebScapper).
+Market activity over time and Sentiment Analysis on the economic categories of Bitcoin (Cryptocurrency), Gold and Inflation? - We will be analyzing the Sentiments between various User Tweets' on Tweeter for Bitcoin, Gold and Inflation via Twint (a WebScapper).
 
 Once we have the cleaned the text, we will be running this information and comparing using the Sentiment Analyzers - NLTK Vader and Textblob. Then we will we analiyzing the overall Composite Sentiment for each category. 
 
