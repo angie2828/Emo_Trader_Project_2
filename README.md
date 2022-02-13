@@ -1,4 +1,4 @@
-#Scraping_for_Sentiments_Project_2
+###Scraping_for_Sentiments_Project_2
 
 Market activity over time and Sentiment Analysis on the economic categories of Bitcoin (Cryptocurrency), Gold and Inflation? - We will be analyzing the Sentiments between various User Tweets' on Tweeter for Bitcoin, Gold and Inflation via Twint (a WebScapper).
 
